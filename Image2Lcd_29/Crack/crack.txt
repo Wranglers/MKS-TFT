@@ -1,0 +1,8 @@
+1、先安装软件
+
+
+
+2、复制crack目录下的“Img2Lcd.exe”到 安装后的目录，覆盖 原来的文件，即可
+
+
+ Copy crack directory "Img2Lcd.exe" to the directory after installation, overwrite the original file
